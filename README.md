@@ -1,3 +1,3 @@
-#cryosparc-relion_file_conversion
+# README - RELION/CryoSPARC File Converter:
 
-Scripts and GUI creation for easy conversion between CryoSPARC and RELION files based upon job type. 
+Scripts and GUI creation for easy conversion between CryoSPARC and RELION files based on job type. 
